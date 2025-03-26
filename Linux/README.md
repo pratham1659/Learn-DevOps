@@ -1,10 +1,4 @@
-# Learn-DevOps
-
-[Chapter 1 - Linux Fundamentals](#Chapter-1-Linux)
-
-## Chapter 1 - Linux Fundamentals
-
-### [Chapter 1 Linux]
+# Chapter 1 - Linux Fundamentals
 
 Here are some basic **Linux commands** you should know:
 
