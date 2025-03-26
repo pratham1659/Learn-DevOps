@@ -1,0 +1,30 @@
+EmployeeID,Name,Department,Salary,JoiningDate,Email
+101,John Doe,IT,60000,2020-05-10,john.doe@example.com
+102,Jane Smith,HR,55000,2019-08-15,jane.smith@example.com
+103,David Johnson,Finance,70000,2021-02-20,david.johnson@example.com
+104,Emily Brown,Marketing,62000,2018-11-05,emily.brown@example.com
+105,Michael Lee,IT,65000,2022-01-12,michael.lee@example.com
+106,Sophia White,Sales,50000,2020-09-23,sophia.white@example.com
+107,Daniel Adams,HR,53000,2017-06-30,daniel.adams@example.com
+108,Olivia Harris,Finance,72000,2022-11-19,olivia.harris@example.com
+109,James Wilson,IT,68000,2016-12-05,james.wilson@example.com
+110,Isabella Scott,Marketing,60000,2015-10-18,isabella.scott@example.com
+111,Ethan Clark,Sales,48000,2019-04-25,ethan.clark@example.com
+112,Charlotte Lewis,Finance,73000,2023-07-08,charlotte.lewis@example.com
+113,Liam Walker,IT,62000,2018-03-14,liam.walker@example.com
+114,Ava Robinson,HR,55000,2021-05-22,ava.robinson@example.com
+115,Benjamin Carter,Finance,71000,2017-08-07,benjamin.carter@example.com
+116,Mia Mitchell,Marketing,64000,2016-01-29,mia.mitchell@example.com
+117,Noah Perez,IT,67000,2020-11-10,noah.perez@example.com
+118,Emma Hall,Sales,49000,2019-07-19,emma.hall@example.com
+119,Emma Hall,Sales,49000,2019-07-19,emma.hall@example.com  # Duplicate
+120,Michael Lee,IT,65000,2022-01-12,michael.lee@example.com  # Duplicate
+121,John Doe,IT,60000,2020-05-10,john.doe@example.com  # Duplicate
+122,Daniel Adams,HR,53000,2017-06-30,daniel.adams@example.com  # Duplicate
+123,Olivia Harris,Finance,72000,2022-11-19,olivia.harris@example.com  # Duplicate
+124,James Wilson,IT,68000,2016-12-05,james.wilson@example.com  # Duplicate
+125,Liam Walker,IT,62000,2018-03-14,liam.walker@example.com  # Duplicate
+126,Ava Robinson,HR,55000,2021-05-22,ava.robinson@example.com  # Duplicate
+127,Benjamin Carter,Finance,71000,2017-08-07,benjamin.carter@example.com  # Duplicate
+128,Sophia White,Sales,50000,2020-09-23,sophia.white@example.com  # Duplicate
+
