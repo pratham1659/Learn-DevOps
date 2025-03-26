@@ -74,3 +74,34 @@ git remote -v
 ```
 
 ### Git Branching and Merging
+
+```
+git merge design
+```
+
+#### How to Clean untracked files in Git
+
+```
+git clean -n
+git clean -f
+```
+
+#### How to add tag in particular commits in Git
+
+```
+git tag -a "readme" -m "This is Readme Commit
+
+git show readme
+
+// To create annotated tags
+git tag -a v1.0 -m "My version 1.0"
+
+//To show tags data
+git show v1.0
+
+//To tag old commit in case you forgot
+git tag -a v1.2 < commit_no>
+
+
+git push origin --tags
+```
