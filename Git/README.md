@@ -61,6 +61,9 @@ git log --no-merges
 ```
 git checkout main
 git branch
+
+
+git branch new_branch
 ```
 
 #### A remote repository refers to a version of your project that resides on a network server or a hosted repository on the internet.
