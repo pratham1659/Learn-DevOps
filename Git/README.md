@@ -13,3 +13,7 @@ git restore filename
 ```
 git diff -- cached
 ```
+
+```
+git restore --worktree
+```
